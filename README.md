@@ -6,7 +6,7 @@
 
 Data Science Student · India
 
-[Portfolio ↗](https://vamsi.tech) &nbsp; · &nbsp; [Email ↗](mailto:jayadevuha@gmail.com)
+[Email ↗](mailto:jayadevuha@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@ I'm also exploring generative AI and large language models, with an interest in 
 
 | Area | Tools & methods |
 | :--- | :--- |
-| Programming | Python · HTML · CSS · JavaScript |
+| Programming | Python |
 | Machine learning | Classification · Regression · Model evaluation |
 | Data science | Data preprocessing · Exploratory analysis · Feature engineering |
 | Applied analytics | Credit risk · Forecasting · Explainability |
@@ -34,7 +34,6 @@ I'm also exploring generative AI and large language models, with an interest in 
 | :--- | :--- | :--- |
 | **Credit Default Risk Intelligence** | Credit risk modelling, threshold tuning, explainability and fairness | [Source](https://github.com/jayadevuha-ui/credit-default-risk-intelligence) · [Demo](https://credit-default-risk-intelligence-69rgyefwwpr9jcnefo2ism.streamlit.app) |
 | **Retail Sales Forecasting Intelligence** | Time-series analysis, lag features and sales forecasting | [Source](https://github.com/jayadevuha-ui/retail-sales-forecasting-intelligence) · [Demo](https://retail-sales-forecasting-intelligence-3gt7qsyapxmpho4w7rquft.streamlit.app) |
-| **Personal Portfolio** | Interactive website documenting my skills and projects | [Source](https://github.com/jayadevuha-ui/PersonalPortfolio) · [Website](https://vamsi.tech) |
 
 ### 04 / Internship projects
 
@@ -49,6 +48,6 @@ I'm also exploring generative AI and large language models, with an interest in 
 
 **Learning through building.**
 
-[vamsi.tech](https://vamsi.tech) &nbsp; / &nbsp; [Get in touch](mailto:jayadevuha@gmail.com)
+[Get in touch](mailto:jayadevuha@gmail.com)
 
 </div>
