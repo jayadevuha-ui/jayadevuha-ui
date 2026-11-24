@@ -1,13 +1,7 @@
-## Data science / Applied AI
+I'm a data science student with a focus on Python, machine learning, deep learning and applied AI. I'm interested in understanding data, developing predictive models and applying analytical techniques to solve real-world problems.
 
-Python is my primary language. My focus is understanding data, building models and exploring how machine learning and deep learning can be used in practical AI systems.
-
-<p><img src="assets/technical-toolkit.svg" width="100%" alt="Python ecosystem — Data science: NumPy, pandas, Matplotlib. Machine learning and deep learning: scikit-learn, XGBoost, TensorFlow. Workflow: Jupyter, Google Colab, Streamlit, Git."></p>
+<p><img src="assets/technical-toolkit.svg" width="100%" alt="Technical toolkit — Python, NumPy, pandas, Matplotlib, scikit-learn, XGBoost, TensorFlow, Google Looker, spreadsheets, time series forecasting, AWS, Jupyter, Google Colab and Git."></p>
 
 **Areas of interest**
 
-`Statistical analysis` · `Machine learning` · `Deep learning` · `Applied AI`
-
-**Currently exploring**
-
-Generative AI, large language models and computer vision — particularly how they can be used to build interactive, intelligent applications.
+`Statistical analysis` · `Machine learning` · `Deep learning` · `Applied AI` · `Generative AI`
