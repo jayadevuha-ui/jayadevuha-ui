@@ -4,4 +4,4 @@ Hey, I'm Vamsi 👋 I'm a Data Science & Statistics student who likes messing ar
 
 **Areas of interest**
 
-`Data analytics` · `Statistical analysis` · `Machine learning` · `Deep learning` · `Applied AI` · `Generative AI`
+`Data analytics` · `Machine learning` · `Deep learning` · `Applied AI` · `Generative AI`
